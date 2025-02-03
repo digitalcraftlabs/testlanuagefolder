@@ -1,1 +1,1 @@
-# testlanuagefolder
+# Laravel Language Generator
