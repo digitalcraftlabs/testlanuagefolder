@@ -7,8 +7,7 @@ This repository contains a `lang` folder with language files for testing purpose
 The `lang` folder includes multiple language files used for testing. Each file contains sample translations.
 
 ## Installation
-1. Clone the repository or download the `lang` folder.
-2. Place the folder inside your Laravel project's `resources/` directory.
+1. Clone the repository as lang. 'git clone https://github.com/digitalcraftlabs/testlanuagefolder.git resources/lang'
 
 ## License
 This project is open-source and available under the MIT License.
